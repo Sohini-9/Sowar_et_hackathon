@@ -44,10 +44,6 @@ urban_air_quality/
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Python 3.9+
-- Internet access (the app fetches live data from the [Open-Meteo](https://open-meteo.com/) API)
 
 ### Installation
 
@@ -63,7 +59,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app will open in your browser, typically at `http://localhost:8501`.
 
 ## 🧪 How It Works
 
