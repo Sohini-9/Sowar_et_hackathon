@@ -86,11 +86,4 @@ streamlit run app.py
 - [Pandas](https://pandas.pydata.org/) / [NumPy](https://numpy.org/) — data processing
 - [Open-Meteo](https://open-meteo.com/) — live weather & air-quality data source
 
-## ⚠️ Disclaimer
-
-Source attribution percentages, dispersion grids, and agent dialogue in this project are
-**simulated/heuristic estimates** for demonstration purposes, built on top of live
-meteorological data — they are not certified regulatory measurements. Do not use this
-tool as the sole basis for real enforcement or public health decisions.
-
 
